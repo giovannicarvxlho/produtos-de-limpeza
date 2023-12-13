@@ -21,3 +21,10 @@ let header = document.querySelector('header');
     window.addEventListener('scroll' , () => {
     header.classList.toggle('shadow', window.scrollY > 0);
 });
+
+var lava_roupa = 0;
+
+function carrinho_soma() {
+    lava_roupa++;
+    console.log(lava_roupa);
+}
