@@ -1,2 +1,2 @@
 ﻿# produtos-de-limpeza
-Projeto pessoal
+Projeto pessoal usando HTML e CSS
