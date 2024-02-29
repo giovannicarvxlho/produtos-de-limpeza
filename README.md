@@ -42,6 +42,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork deste re
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão, entre em contato comigo por email: seuemail@example.com
+Se você tiver alguma dúvida ou sugestão, entre em contato comigo por email: giovannidecarvalho17@gmail.com
 
 Obrigado por conferir este projeto!
